@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Anda]
+# 👋 Hi, I'm Nur.E.H
 
 > Heavy Equipment Technician | System Integrator | IoT Developer
 
