@@ -52,7 +52,7 @@ What sets me apart is my ability to bridge the gap between **industrial hardware
 - Remote device monitoring from smartphone
 - Downloader and uploader utilities
 
-**Tech:** Node.js, Python, Discord.js, Telegram Bot API, PHP, MySQL
+**Tech:** Node.js, Python, Discord.js, Telegram Bot API
 
 ---
 
